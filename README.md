@@ -1,5 +1,7 @@
 ### 👋 Hello there! I'm huangmingfu, a front-end development engineer. Feel free to reach out for a chat and let's learn and grow together.
 
+[![visitors](https://visitor-badge.laobi.icu/badge?page_id=huangmingfu.huangmingfu)](https://github.com/huangmingfu)
+
 - 💼 I’m currently working in Guangzhou, China.
 - 👨🏻‍💻 I’m currently learning Vue/React/JavaScript/TypeScript.
 - 👏🏻 Welcome to **[my blog](https://huangmingfu.github.io/my-blog)** and look forward to communicating with you.
